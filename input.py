@@ -1,2 +1,5 @@
-use_input = input("Enter Your name")
+
+print("Enter Your Name")
+
+use_input = input()
 print(use_input)
