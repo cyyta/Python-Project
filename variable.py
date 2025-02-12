@@ -1,0 +1,1 @@
+#variable is the container to store the value of variable
