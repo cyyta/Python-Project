@@ -1,2 +1,3 @@
-for i in range(1,5,1):
-    print(i)
+i = ["sita","roshita","usha","rose"]
+for list in i:
+    print(i[len])
