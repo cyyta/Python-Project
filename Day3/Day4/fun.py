@@ -22,7 +22,8 @@
 def sum(a,b):
     #a=5 b=6
     c = a+b
-    print("inside function") #return c
+    return c
+    #print("inside function") #return c
 
     return "function works propely"
 sum(1,4)
