@@ -10,4 +10,4 @@ student = {
 #print("After change", student["name"])
 for i in student:
     print(i["name"])
-del student["name"]
+#del student["name"]
